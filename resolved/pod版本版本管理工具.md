@@ -1,4 +1,4 @@
-# pod 版本版本管理工具.md
+# pod 版本管理工具.md
 
 pod 版本版本管理工具需要 Ruby 的支持，所以
 
@@ -18,7 +18,7 @@ pod 版本版本管理工具需要 Ruby 的支持，所以
   `sudo gem install cocoapods -v <Version> -n /usr/local/bin`
 
   否则的话使用命令
-  
+
   `sudo gem install cocoapods -v <Version>`
 
 #### 關宇 React Native 需要注意
