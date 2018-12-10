@@ -14,8 +14,11 @@ pod 版本版本管理工具需要 Ruby 的支持，所以
   `rvm use 2.5.0`
 - 安装 pod 版本
   如果你是 mac 的 10.11 及以上系统，需要使用命令
+
   `sudo gem install cocoapods -v <Version> -n /usr/local/bin`
+
   否则的话使用命令
+  
   `sudo gem install cocoapods -v <Version>`
 
 #### 關宇 React Native 需要注意
